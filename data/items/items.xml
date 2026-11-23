@@ -3785,7 +3785,7 @@
 	<item id="2474" article="a" name="winged helmet">
 		<attribute key="description" value="It's the Helmet of Hermes." />
 		<attribute key="weight" value="1200" />
-		<attribute key="armor" value="15" />
+		<attribute key="armor" value="10" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="2475" article="a" name="warrior helmet">
