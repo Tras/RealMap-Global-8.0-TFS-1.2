@@ -3785,7 +3785,7 @@
 	<item id="2474" article="a" name="winged helmet">
 		<attribute key="description" value="It's the Helmet of Hermes." />
 		<attribute key="weight" value="1200" />
-		<attribute key="armor" value="10" />
+		<attribute key="armor" value="15" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="2475" article="a" name="warrior helmet">
@@ -6921,7 +6921,7 @@
 	<item fromid="3737" toid="3738" article="a" name="pagoda" />
 	<item fromid="3739" toid="3742" article="a" name="huntress statue" />
 	<item id="3743" article="a" name="bamboo lamp" />
-	<item id="3744" article="a" name="skull candle" />
+	<item id="3744" article="a" name="bamboo lamp (lit)" />
 	<item fromid="3745" toid="3751" article="a" name="bamboo column" />
 	<item fromid="3752" toid="3755" article="a" name="bamboo pole" />
 	<item fromid="3756" toid="3757" article="a" name="rope bridge" />
@@ -8113,7 +8113,7 @@
 		<attribute key="weight" value="600" />
 	</item>
 	<item id="4864" article="an" name="ectoplasm container">
-		<attribute key="description" value="It is filled with a desecrated bone." />
+		<attribute key="description" value="It is filled with ectoplasm." />
 		<attribute key="weight" value="600" />
 	</item>
 	<item id="4865" article="a" name="butterfly conservation kit">
