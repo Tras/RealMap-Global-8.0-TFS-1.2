@@ -144,6 +144,10 @@
 	<action itemid="3698" toid="3697" script="Other/other/decayTo.lua" />
 	<action itemid="3743" toid="3744" script="Other/other/decayTo.lua" />
 	<action itemid="3744" toid="3743" script="Other/other/decayTo.lua" />
+	<action itemid="3943" toid="3944" script="Other/other/decayTo.lua" />
+	<action itemid="3944" toid="3943" script="Other/other/decayTo.lua" />
+	<action itemid="3945" toid="3946" script="Other/other/decayTo.lua" />
+	<action itemid="3946" toid="3946" script="Other/other/decayTo.lua" />
 	<action itemid="3947" toid="3948" script="Other/other/decayTo.lua" />
 	<action itemid="3948" toid="3948" script="Other/other/decayTo.lua" />
 	<action itemid="3949" toid="3950" script="Other/other/decayTo.lua" />
